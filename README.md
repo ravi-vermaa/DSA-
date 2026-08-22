@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ravi-vermaa/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ravi-vermaa/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -58,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

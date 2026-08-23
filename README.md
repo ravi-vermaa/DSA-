@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ravi-vermaa/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ravi-vermaa/DSA-/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |

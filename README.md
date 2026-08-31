@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ravi-vermaa/DSA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ravi-vermaa/DSA-/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ravi-vermaa/DSA-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ravi-vermaa/DSA-/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/ravi-vermaa/DSA-/tree/master/0066-plus-one) |
 | [0260-single-number-iii](https://github.com/ravi-vermaa/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |

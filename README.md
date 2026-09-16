@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ravi-vermaa/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/ravi-vermaa/DSA-/tree/master/0697-degree-of-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/ravi-vermaa/DSA-/tree/master/0881-boats-to-save-people) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravi-vermaa/DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/ravi-vermaa/DSA-/tree/master/0697-degree-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ravi-vermaa/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ravi-vermaa/DSA-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ravi-vermaa/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravi-vermaa/DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ravi-vermaa/DSA-/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

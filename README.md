@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ravi-vermaa/DSA-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ravi-vermaa/DSA-/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0119-pascals-triangle-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ravi-vermaa/DSA-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravi-vermaa/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/ravi-vermaa/DSA-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ravi-vermaa/DSA-/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ravi-vermaa/DSA-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ravi-vermaa/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravi-vermaa/DSA-/tree/master/0232-implement-queue-using-stacks) |
@@ -212,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

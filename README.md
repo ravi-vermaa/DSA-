@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ravi-vermaa/DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ravi-vermaa/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ravi-vermaa/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ravi-vermaa/DSA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ravi-vermaa/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/ravi-vermaa/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |

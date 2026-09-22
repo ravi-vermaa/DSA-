@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/ravi-vermaa/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ravi-vermaa/DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ravi-vermaa/DSA-/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/ravi-vermaa/DSA-/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/ravi-vermaa/DSA-/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ravi-vermaa/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravi-vermaa/DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ravi-vermaa/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design

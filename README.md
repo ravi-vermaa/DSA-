@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ravi-vermaa/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ravi-vermaa/DSA-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ravi-vermaa/DSA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3870-count-commas-in-range](https://github.com/ravi-vermaa/DSA-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ravi-vermaa/DSA-/tree/master/3871-count-commas-in-range-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ravi-vermaa/DSA-/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/ravi-vermaa/DSA-/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ravi-vermaa/DSA-/tree/master/0881-boats-to-save-people) |

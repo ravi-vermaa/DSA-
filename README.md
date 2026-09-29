@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ravi-vermaa/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ravi-vermaa/DSA-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
+| [0396-rotate-function](https://github.com/ravi-vermaa/DSA-/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ravi-vermaa/DSA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3870-count-commas-in-range](https://github.com/ravi-vermaa/DSA-/tree/master/3870-count-commas-in-range) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ravi-vermaa/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/ravi-vermaa/DSA-/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/ravi-vermaa/DSA-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravi-vermaa/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ravi-vermaa/DSA-/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/ravi-vermaa/DSA-/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/ravi-vermaa/DSA-/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |

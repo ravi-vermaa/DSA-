@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ravi-vermaa/DSA-/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ravi-vermaa/DSA-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/ravi-vermaa/DSA-/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ravi-vermaa/DSA-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ravi-vermaa/DSA-/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/ravi-vermaa/DSA-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravi-vermaa/DSA-/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ravi-vermaa/DSA-/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ravi-vermaa/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravi-vermaa/DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ravi-vermaa/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Euclidean Algorithm
 |  |

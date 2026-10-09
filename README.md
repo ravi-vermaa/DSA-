@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ravi-vermaa/DSA-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ravi-vermaa/DSA-/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/ravi-vermaa/DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ravi-vermaa/DSA-/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ravi-vermaa/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ravi-vermaa/DSA-/tree/master/0078-subsets) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ravi-vermaa/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ravi-vermaa/DSA-/tree/master/0203-remove-linked-list-elements) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ravi-vermaa/DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ravi-vermaa/DSA-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Manacher
 |  |
 | ------- |

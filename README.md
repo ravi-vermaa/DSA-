@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ravi-vermaa/DSA-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ravi-vermaa/DSA-/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/ravi-vermaa/DSA-/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/ravi-vermaa/DSA-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ravi-vermaa/DSA-/tree/master/0066-plus-one) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/ravi-vermaa/DSA-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ravi-vermaa/DSA-/tree/master/0078-subsets) |
 ## Prefix Sum
 |  |

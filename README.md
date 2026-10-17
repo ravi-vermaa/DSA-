@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ravi-vermaa/DSA-/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/ravi-vermaa/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ravi-vermaa/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ravi-vermaa/DSA-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ravi-vermaa/DSA-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ravi-vermaa/DSA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ravi-vermaa/DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ravi-vermaa/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ravi-vermaa/DSA-/tree/master/0202-happy-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ravi-vermaa/DSA-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ravi-vermaa/DSA-/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ravi-vermaa/DSA-/tree/master/0260-single-number-iii) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravi-vermaa/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ravi-vermaa/DSA-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ravi-vermaa/DSA-/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ravi-vermaa/DSA-/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravi-vermaa/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ravi-vermaa/DSA-/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/ravi-vermaa/DSA-/tree/master/0881-boats-to-save-people) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravi-vermaa/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravi-vermaa/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravi-vermaa/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ravi-vermaa/DSA-/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/ravi-vermaa/DSA-/tree/master/0881-boats-to-save-people) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravi-vermaa/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravi-vermaa/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration

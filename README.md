@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ravi-vermaa/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ravi-vermaa/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ravi-vermaa/DSA-/tree/master/0203-remove-linked-list-elements) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ravi-vermaa/DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ravi-vermaa/DSA-/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/ravi-vermaa/DSA-/tree/master/0881-boats-to-save-people) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ravi-vermaa/DSA-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravi-vermaa/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ravi-vermaa/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ravi-vermaa/DSA-/tree/master/0844-backspace-string-compare) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi-vermaa/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravi-vermaa/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/2487-remove-nodes-from-linked-list) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Manacher
 |  |

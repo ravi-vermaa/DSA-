@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ravi-vermaa/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ravi-vermaa/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/ravi-vermaa/DSA-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ravi-vermaa/DSA-/tree/master/0203-remove-linked-list-elements) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ravi-vermaa/DSA-/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ravi-vermaa/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/ravi-vermaa/DSA-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ravi-vermaa/DSA-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ravi-vermaa/DSA-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravi-vermaa/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/ravi-vermaa/DSA-/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/ravi-vermaa/DSA-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravi-vermaa/DSA-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravi-vermaa/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ravi-vermaa/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/ravi-vermaa/DSA-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravi-vermaa/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravi-vermaa/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ravi-vermaa/DSA-/tree/master/0155-min-stack) |

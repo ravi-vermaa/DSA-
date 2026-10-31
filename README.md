@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ravi-vermaa/DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ravi-vermaa/DSA-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ravi-vermaa/DSA-/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/ravi-vermaa/DSA-/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ravi-vermaa/DSA-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ravi-vermaa/DSA-/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ravi-vermaa/DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ravi-vermaa/DSA-/tree/master/0238-product-of-array-except-self) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravi-vermaa/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Ternary Search
@@ -383,4 +386,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ravi-vermaa/DSA-/tree/master/0543-diameter-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

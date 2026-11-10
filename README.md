@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ravi-vermaa/DSA-/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ravi-vermaa/DSA-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/ravi-vermaa/DSA-/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/ravi-vermaa/DSA-/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ravi-vermaa/DSA-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ravi-vermaa/DSA-/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/ravi-vermaa/DSA-/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravi-vermaa/DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravi-vermaa/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |

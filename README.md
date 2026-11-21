@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ravi-vermaa/DSA-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ravi-vermaa/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ravi-vermaa/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/ravi-vermaa/DSA-/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ravi-vermaa/DSA-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ravi-vermaa/DSA-/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ravi-vermaa/DSA-/tree/master/0224-basic-calculator) |
+| [0389-find-the-difference](https://github.com/ravi-vermaa/DSA-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ravi-vermaa/DSA-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ravi-vermaa/DSA-/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ravi-vermaa/DSA-/tree/master/0678-valid-parenthesis-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravi-vermaa/DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ravi-vermaa/DSA-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravi-vermaa/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ravi-vermaa/DSA-/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/ravi-vermaa/DSA-/tree/master/0697-degree-of-an-array) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ravi-vermaa/DSA-/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/ravi-vermaa/DSA-/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi-vermaa/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ravi-vermaa/DSA-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ravi-vermaa/DSA-/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/ravi-vermaa/DSA-/tree/master/0881-boats-to-save-people) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravi-vermaa/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |

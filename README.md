@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ravi-vermaa/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ravi-vermaa/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/ravi-vermaa/DSA-/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/ravi-vermaa/DSA-/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ravi-vermaa/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ravi-vermaa/DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ravi-vermaa/DSA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ravi-vermaa/DSA-/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [3360-stone-removal-game](https://github.com/ravi-vermaa/DSA-/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ravi-vermaa/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/ravi-vermaa/DSA-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ravi-vermaa/DSA-/tree/master/3871-count-commas-in-range-ii) |
